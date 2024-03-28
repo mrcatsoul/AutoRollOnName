@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: |cFF22ffaaAutoRollOnName|r
+## Title-ruRU: |cFF22ffaaАвторолл на ник|r
+## SavedVariables: AutoRollOnName_settings
+## Version: 0.69.420
+## TitleTest: |cff11bbee<Autoroll>|r
+## TitleTest2: <Autoroll>
+## Author: mrcatsoul
+## Notes: |cFF22ddccby some random guy (tg|ds|yt: @mrcatsoul)|r
+
+AutoRollOnName.lua
